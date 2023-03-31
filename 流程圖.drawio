@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:01:47.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SyQzrfOZlODaamPpeiKD" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:01:58.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TG8avw7hWJDQjGoa5iFN" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1088" dy="733" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
             <mxPoint x="264" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VgMrhemJ6wQ01I0-AcNZ-80" value="庫存" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="VgMrhemJ6wQ01I0-AcNZ-80" value="&lt;b&gt;庫存&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="72" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_vY5W9CxbXfMibYVCZA-5" value="結束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
