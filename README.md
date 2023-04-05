@@ -6,7 +6,7 @@
 
 ![](功能流程圖.jpg "功能流程圖")
 
-
+![](使用者例.jpg "使用者案例圖")
 ```
 一個銷售點(Point-of-Sale)管理系統的需求分析述如下:
 (1) 管理者可以藉由載入(Load)貨品清單(Inventory)資料來產生報表(Inventory Reports)。
